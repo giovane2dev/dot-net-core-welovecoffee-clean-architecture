@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
+      "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
       "projectName": "PromoBeta.Domain",
-      "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
+      "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
       "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\obj\\",
+      "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

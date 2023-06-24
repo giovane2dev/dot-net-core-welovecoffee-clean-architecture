@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BiuhSrjUsaK5rlDZUZEtSkEqlc5IU3k7NzZdZEyRcuCc2UuFX6DnLGAkNTxt/IrKWMG7wmyiTzXIt7yzOoN4hg==",
+  "dgSpecHash": "2LVYy4Ep2yx7glSwp8qbeAFOFaiEdfm5XjT3tsJR2GmELedC/I47rEaADXfHPkNzjytuHFh/I0q+Pjkibghi5Q==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.WebUI\\PromoBeta.WebUI.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.WebUI\\PromoBeta.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

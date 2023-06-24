@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/Z4ny9tgakLgiTcEkqHm0iK9sPy6wn+BfazpAuxRfe4kyt11cS+jbQm0tHhcXM8FrQatwnA4leqIZnPsozr+w==",
+  "dgSpecHash": "1dcBTqQFySa8SrlMq1SNctWOgrpn3EE2zwrFoe8eSt3pamty0441RW3H1+g0OGLA8tudBJhIZF5gtgFH7i5cRA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vP0LCQVexFHREgXQzPj7F2SI/sHF4fKMMvOiQua/75B6qbAu9gO0t3LoW3khlnlBkC828Re3JqYgeE9sna9mCA==",
+  "dgSpecHash": "Gb/c2L3Vsi7YHoIUkHkUtNYwa3Vv442KyTCNAc20277fvWfJ/vB5kBBvrNNFUvKSBX4mIl97G+/saakoL9z7uQ==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj": {}
+    "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj": {}
   },
   "projects": {
-    "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj": {
+    "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj",
+        "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj",
         "projectName": "PromoBeta.Application",
-        "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj",
+        "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj",
         "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\obj\\",
+        "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
-                "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
+              "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
+                "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
+    "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
+        "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
         "projectName": "PromoBeta.Domain",
-        "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
+        "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj",
         "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\obj\\",
+        "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj": {
+    "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj",
+        "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj",
         "projectName": "PromoBeta.Infra.Data",
-        "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj",
+        "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\obj\\",
+        "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,8 +163,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
-                "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
+              "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
+                "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj": {
+    "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
+        "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
         "projectName": "PromoBeta.Infra.IoC",
-        "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
+        "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.IoC\\obj\\",
+        "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -245,14 +245,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj": {
-                "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj"
+              "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj": {
+                "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj"
               },
-              "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
-                "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
+              "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj": {
+                "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain\\PromoBeta.Domain.csproj"
               },
-              "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj": {
-                "projectPath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj"
+              "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj": {
+                "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.Data\\PromoBeta.Infra.Data.csproj"
               }
             }
           }
