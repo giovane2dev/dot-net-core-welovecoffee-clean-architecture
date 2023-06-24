@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6QeO2Frbvsa0lC4i617f6huHG6D1teJOiSK7dwDUUz2aHizmK4vsNDeMDaJK7cuBfh52m/7IP0symJMqtOloqA==",
+  "dgSpecHash": "8G7C3EJIjEbmwdTE66tcuhDuyWowOvKeAc8QJAM+zoinxUOgqolNxmtj7miKoktrjjZe5O7e+G32HEt1Gf591w==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Domain.Tests\\PromoBeta.Domain.Tests.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Domain.Tests\\PromoBeta.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
