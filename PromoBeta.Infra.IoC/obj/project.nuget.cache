@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1dcBTqQFySa8SrlMq1SNctWOgrpn3EE2zwrFoe8eSt3pamty0441RW3H1+g0OGLA8tudBJhIZF5gtgFH7i5cRA==",
+  "dgSpecHash": "oeHDRhEPPLLsb3lnUv5IfjTR/v6T/T7Ih0qN3oNKAA6FGxBkXzto3kWHNBHfd9L1IHxuNKCYFyG2BPKam0jcpg==",
   "success": true,
   "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\PromoBeta.Infra.IoC\\PromoBeta.Infra.IoC.csproj",
   "expectedPackageFiles": [

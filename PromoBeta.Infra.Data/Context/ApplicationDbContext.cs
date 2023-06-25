@@ -5,15 +5,17 @@ namespace PromoBeta.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {
+        // constructs and transfer database context options for base class
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
         }
 
-        // orm mapping
-        public DbSet<Category> Categories { get; set;  }
+        // used to query and save instances of entity
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set;  }        
 
+        // 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
