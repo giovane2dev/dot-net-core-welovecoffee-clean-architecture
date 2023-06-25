@@ -1,0 +1,12 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\bin\Debug\net7.0\PromoBeta.Domain.deps.json
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\bin\Debug\net7.0\PromoBeta.Domain.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\bin\Debug\net7.0\PromoBeta.Domain.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\refint\PromoBeta.Domain.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\PromoBeta.Domain.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Domain\obj\Debug\net7.0\ref\PromoBeta.Domain.dll

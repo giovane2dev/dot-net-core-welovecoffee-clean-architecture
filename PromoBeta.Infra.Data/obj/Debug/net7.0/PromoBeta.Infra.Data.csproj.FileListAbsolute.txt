@@ -1,0 +1,17 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Infra.Data.deps.json
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Infra.Data.runtimeconfig.json
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Infra.Data.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Infra.Data.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Domain.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\bin\Debug\net7.0\PromoBeta.Domain.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.csproj.CopyComplete
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\refint\PromoBeta.Infra.Data.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\PromoBeta.Infra.Data.genruntimeconfig.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.Data\obj\Debug\net7.0\ref\PromoBeta.Infra.Data.dll

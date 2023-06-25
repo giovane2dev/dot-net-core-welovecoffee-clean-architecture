@@ -1,0 +1,15 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\bin\Debug\net7.0\PromoBeta.Application.deps.json
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\bin\Debug\net7.0\PromoBeta.Application.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\bin\Debug\net7.0\PromoBeta.Application.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\bin\Debug\net7.0\PromoBeta.Domain.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\bin\Debug\net7.0\PromoBeta.Domain.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.csproj.CopyComplete
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\refint\PromoBeta.Application.dll
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\PromoBeta.Application.pdb
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Application\obj\Debug\net7.0\ref\PromoBeta.Application.dll
