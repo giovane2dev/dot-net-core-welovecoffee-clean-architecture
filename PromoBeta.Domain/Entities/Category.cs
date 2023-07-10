@@ -11,35 +11,33 @@ namespace PromoBeta.Domain.Entities
         // specific attributes, validanting your properties in construnction.
 
         public string Name { get; private set; }
+        public string Description { get; set; }
+        public bool Active { get; set; }
+        public ICollection<Product> Products { get; set; }
 
-        public Category(string name)
+        public Category(string name, string description)
         {
-            this.ValidateDomain(name);
+            this.Validate(name, description);
         }
 
-        public Category(int id, string name)
+        public Category(int id, string name, string description)
         {
-            DomainExceptionValidation.Check(id < 0,
+            DomainExceptionValidation.Check(id <= 0,
                 "Código da Categoria inválido!");
 
             Id = id;
 
-            this.ValidateDomain(name);
+            this.Validate(name, description);
         }
 
-        public void Update(string name)
-        {
-            this.ValidateDomain(name);
-        }
-
-        public ICollection<Product> Products { get; set; }
-
-        private void ValidateDomain(string name)
+        private void Validate(string name, string description)
         {
             DomainExceptionValidation.Check(string.IsNullOrEmpty(name),
                 "Informe o Nome da Categoria!");
 
             Name = name;
+            Description = description;
+            Active = true;
         }
     }
 }

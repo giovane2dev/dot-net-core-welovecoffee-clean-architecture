@@ -13,41 +13,39 @@ namespace PromoBeta.Domain.Entities
         public string Description { get; private set; }
         public decimal Price { get; private set; }
         public string Image { get; private set; }
-        public int CategoryId { get; set; }
+        public int CategoryId { get; set; }        
+        public bool Active { get; set; }
         public Category Category { get; set; }
+        public Company Company { get; set; }
 
         public Product(string name, string description, decimal price, string image)
         {
-            this.ValidateDomain(name, description, price, image);
+            this.Validate(name, description, price, image);
         }
 
         public Product(int id, string name, string description, decimal price, string image)
         {
-            DomainExceptionValidation.Check(id < 0,
+            DomainExceptionValidation.Check(id <= 0,
                 "Código do Produto inválido!");
 
             Id = id;
-
-            this.ValidateDomain(name, description, price, image);
+            
+            this.Validate(name, description,price,image);            
         }
 
-        public void Update(string name, string description, decimal price, string image)
-        {
-            this.ValidateDomain(name, description, price, image);
-        }
-
-        private void ValidateDomain(string name, string description, decimal price, string image)
+        private void Validate(string name, string description, decimal price, string image)
         {
             DomainExceptionValidation.Check(string.IsNullOrEmpty(name),
-                "Informe o Nome do Produto!");
+               "Informe o Nome do Produto!");
 
-            DomainExceptionValidation.Check(price == 0,
-                "Informe o Valor do Produto!");
-
+            DomainExceptionValidation.Check(price <= 0,
+                 "Valor do Produto inválido!");
+            
             Name = name;
             Description = description;
             Price = price;
             Image = image;
+            Active = true;
         }
     }
 }
