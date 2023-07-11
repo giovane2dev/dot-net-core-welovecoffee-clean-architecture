@@ -11,7 +11,7 @@ namespace PromoBeta.Domain.Tests
         [Fact(DisplayName = "create a first category with valid parameters")]
         public void CreateCategory_WithValidParameters()
         {
-            Action action = () => new Category(1, "Geral");
+            Action action = () => new Category(id: 1, name: "Geral", description: "");
 
             action.Should().NotThrow<PromoBeta.Domain.Validation.DomainExceptionValidation>();
         }
@@ -19,7 +19,7 @@ namespace PromoBeta.Domain.Tests
         [Fact(DisplayName = "create a second category with invalid parameters")]
         public void CreateCategory_WithInvalidParameters()
         {
-            Action action = () => new Category(1, String.Empty);
+            Action action = () => new Category(id: 1, name: String.Empty, description: "");
 
             action.Should().NotThrow<PromoBeta.Domain.Validation.DomainExceptionValidation>();
         }
