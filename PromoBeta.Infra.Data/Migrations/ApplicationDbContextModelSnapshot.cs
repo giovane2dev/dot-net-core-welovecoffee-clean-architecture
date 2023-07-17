@@ -29,6 +29,13 @@ namespace PromoBeta.Infra.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<bool>("Active")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -39,6 +46,36 @@ namespace PromoBeta.Infra.Data.Migrations
                     b.ToTable("Categories");
                 });
 
+            modelBuilder.Entity("PromoBeta.Domain.Entities.Company", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Active")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
+
+                    b.Property<string>("TaxIdNumber")
+                        .IsRequired()
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Companies");
+                });
+
             modelBuilder.Entity("PromoBeta.Domain.Entities.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -47,7 +84,13 @@ namespace PromoBeta.Infra.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<bool>("Active")
+                        .HasColumnType("bit");
+
                     b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CompanyId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
@@ -71,6 +114,8 @@ namespace PromoBeta.Infra.Data.Migrations
 
                     b.HasIndex("CategoryId");
 
+                    b.HasIndex("CompanyId");
+
                     b.ToTable("Products");
                 });
 
@@ -82,10 +127,23 @@ namespace PromoBeta.Infra.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("PromoBeta.Domain.Entities.Company", "Company")
+                        .WithMany("Products")
+                        .HasForeignKey("CompanyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Category");
+
+                    b.Navigation("Company");
                 });
 
             modelBuilder.Entity("PromoBeta.Domain.Entities.Category", b =>
+                {
+                    b.Navigation("Products");
+                });
+
+            modelBuilder.Entity("PromoBeta.Domain.Entities.Company", b =>
                 {
                     b.Navigation("Products");
                 });
