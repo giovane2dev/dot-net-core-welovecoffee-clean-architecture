@@ -6,12 +6,11 @@
 
   <ItemGroup>
     <None Remove="Entities\" />
+    <None Remove="Entities\CompanyDTO.cs~RF185772da.TMP" />
     <None Remove="Interfaces\" />
     <None Remove="Validation\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Validation\" />
   </ItemGroup>
 </Project>

@@ -1,3 +1,11 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.RazorAssemblyInfo.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.RazorAssemblyInfo.cs
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\appsettings.Development.json
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\appsettings.json
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\PromoBeta.WebUI.staticwebassets.runtime.json
@@ -383,15 +391,7 @@ D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebU
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\PromoBeta.Application.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\PromoBeta.Domain.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\bin\Debug\net7.0\PromoBeta.Infra.Data.pdb
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.csproj.AssemblyReference.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.AssemblyInfoInputs.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.AssemblyInfo.cs
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.csproj.CoreCompileInputs.cache
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.MvcApplicationPartsAssemblyInfo.cs
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.MvcApplicationPartsAssemblyInfo.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.RazorAssemblyInfo.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\PromoBeta.WebUI.RazorAssemblyInfo.cs
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\staticwebassets\msbuild.PromoBeta.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\staticwebassets\msbuild.build.PromoBeta.WebUI.props
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.WebUI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PromoBeta.WebUI.props

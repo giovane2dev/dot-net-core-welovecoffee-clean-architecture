@@ -1,3 +1,8 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.csproj.CoreCompileInputs.cache
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Infra.IoC.deps.json
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Infra.IoC.dll
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Infra.IoC.pdb
@@ -7,11 +12,6 @@ D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infr
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Domain.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Application.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\bin\Debug\net7.0\PromoBeta.Infra.Data.pdb
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.csproj.AssemblyReference.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.AssemblyInfoInputs.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.AssemblyInfo.cs
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.csproj.CoreCompileInputs.cache
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.csproj.CopyComplete
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\PromoBeta.Infra.IoC.dll
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.Infra.IoC\obj\Debug\net7.0\refint\PromoBeta.Infra.IoC.dll

@@ -1,3 +1,9 @@
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\appsettings.Development.json
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\appsettings.json
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\PromoBeta.API.exe
@@ -53,12 +59,6 @@ D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\PromoBeta.Application.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\PromoBeta.Domain.pdb
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\bin\Debug\net7.0\PromoBeta.Infra.Data.pdb
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.csproj.AssemblyReference.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.AssemblyInfoInputs.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.AssemblyInfo.cs
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.csproj.CoreCompileInputs.cache
-D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\PromoBeta.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\staticwebassets\msbuild.PromoBeta.API.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\staticwebassets\msbuild.build.PromoBeta.API.props
 D:\Development\learning\dot-net-core-promobeta-clean-architecture\PromoBeta.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PromoBeta.API.props
