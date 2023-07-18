@@ -29,7 +29,7 @@ namespace PromoBeta.Infra.Data.Repositories
             return await companyContext.Companies.ToListAsync();
         }
 
-        public async Task<Company> GetByAsyncId(int id)
+        public async Task<Company> GetByAsyncId(int? id)
         {
             return await companyContext.Companies.FindAsync(id);
         }        
