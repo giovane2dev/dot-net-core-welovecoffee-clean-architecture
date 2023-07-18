@@ -12,5 +12,11 @@ namespace PromoBeta.Application.DTOs
         [MaxLength(150)]
         [DisplayName("Nome")]
         public string Name { get; set; }
+
+        [MinLength(0)]
+        [MaxLength(250)]
+        [DisplayName("Descrição")]
+        public string Description { get; set; }
+        public bool Active { get; set; }
     }
 }

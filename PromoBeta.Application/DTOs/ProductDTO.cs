@@ -14,18 +14,25 @@ namespace PromoBeta.Application.DTOs
         [DisplayName("Nome")]
         public string Name { get; set; }
 
+        [MinLength(0)]
+        [MaxLength(250)]
         [DisplayName("Descrição")]
         public string Description { get; set; }
 
-        [Required(ErrorMessage = "Informe o Valor do Produto!")]
+        [Required(ErrorMessage = "Valor do Produto inválido!")]
         [DisplayName("Valor R$")]
         public decimal Price { get; set; }
 
         public string Image { get; set; }
 
         public int CategoryId { get; set; }
+        public int CompanyId { get; set; }
+        public bool Active { get; set; }
 
         [DisplayName("Categoria")]
         public Category Category { get; set; }
+
+        [DisplayName("Empresa")]
+        public Company Company { get; set; }
     }
 }
