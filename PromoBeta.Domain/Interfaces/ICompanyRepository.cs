@@ -11,7 +11,7 @@ namespace PromoBeta.Domain.Interfaces
     {
         Task<Company> CreateAsync(Company company);
         Task<IEnumerable<Company>> GetCompaniesAsync();
-        Task<Company> GetByAsyncId(int id);
+        Task<Company> GetByAsyncId(int? id);
         Task<Company> UpdateAsync(Company company);
         Task<Company> DeleteAsync(Company company);
     }
