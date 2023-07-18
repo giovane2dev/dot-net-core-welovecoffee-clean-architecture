@@ -9,6 +9,7 @@ namespace PromoBeta.Application.Mappings
         public MappingProfile()
         {
             CreateMap<Category, CategoryDTO>().ReverseMap();
+            CreateMap<Company, CompanyDTO>().ReverseMap();
             CreateMap<Product, ProductDTO>().ReverseMap();
         }
     }
