@@ -11,10 +11,10 @@ namespace PromoBeta.Domain.Entities
         // specific attributes, validanting your properties in construnction.
 
         // equivalent to CNPJ in Brazil (EIN)
-        public string TaxIdNumber { get; set; }
+        public string TaxIdNumber { get; private set; }
         public string Name { get; private set; }
-        public string Description { get; set; }
-        public bool Active { get; set; }
+        public string Description { get; private set; }
+        public bool Active { get; private set; }
         public ICollection<Product> Products { get; set; }
 
         public Company(string taxIdNumber, string name, string description)
