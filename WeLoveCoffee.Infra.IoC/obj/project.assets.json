@@ -3300,11 +3300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Infra.IoC\\WeLoveCoffee.Infra.IoC.csproj",
+      "projectUniqueName": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Infra.IoC\\WeLoveCoffee.Infra.IoC.csproj",
       "projectName": "WeLoveCoffee.Infra.IoC",
-      "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Infra.IoC\\WeLoveCoffee.Infra.IoC.csproj",
+      "projectPath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Infra.IoC\\WeLoveCoffee.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\2dev\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Infra.IoC\\obj\\",
+      "outputPath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3326,14 +3326,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj": {
-              "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj"
+            "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj": {
+              "projectPath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj"
             },
-            "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj": {
-              "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj"
+            "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj": {
+              "projectPath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj"
             },
-            "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Infra.Data\\WeLoveCoffee.Infra.Data.csproj": {
-              "projectPath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Infra.Data\\WeLoveCoffee.Infra.Data.csproj"
+            "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Infra.Data\\WeLoveCoffee.Infra.Data.csproj": {
+              "projectPath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Infra.Data\\WeLoveCoffee.Infra.Data.csproj"
             }
           }
         }

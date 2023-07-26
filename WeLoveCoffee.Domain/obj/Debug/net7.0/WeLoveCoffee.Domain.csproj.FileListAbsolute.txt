@@ -1,0 +1,12 @@
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\bin\Debug\net7.0\WeLoveCoffee.Domain.deps.json
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\bin\Debug\net7.0\WeLoveCoffee.Domain.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\bin\Debug\net7.0\WeLoveCoffee.Domain.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\refint\WeLoveCoffee.Domain.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\WeLoveCoffee.Domain.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Domain\obj\Debug\net7.0\ref\WeLoveCoffee.Domain.dll

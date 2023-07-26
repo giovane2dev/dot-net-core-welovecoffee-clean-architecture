@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XdnbCuVlNZ8bhohnFypFUv5qgX8yxBw2x1jhRzQWHE/kBuAJ346wiq0DFQkC/MpSzYLjbMeGJI/kMEacGZC5w==",
+  "dgSpecHash": "oxJyD+R9zjgZJGSYyt1FFWoLtR3MHqp75Jq17xU42dryORgq5jaxJ6KSkSQAej+qhOFZ2V0oujHc94o+VVZwyA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Domain\\WeLoveCoffee.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

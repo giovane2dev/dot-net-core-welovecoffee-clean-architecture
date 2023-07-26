@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WeLoveCoffee.WebUI.props" />
+</Project>

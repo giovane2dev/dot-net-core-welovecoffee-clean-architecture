@@ -1,0 +1,15 @@
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\bin\Debug\net7.0\WeLoveCoffee.Application.deps.json
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\bin\Debug\net7.0\WeLoveCoffee.Application.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\bin\Debug\net7.0\WeLoveCoffee.Application.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\bin\Debug\net7.0\WeLoveCoffee.Domain.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\bin\Debug\net7.0\WeLoveCoffee.Domain.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.csproj.CopyComplete
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\refint\WeLoveCoffee.Application.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\WeLoveCoffee.Application.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Application\obj\Debug\net7.0\ref\WeLoveCoffee.Application.dll

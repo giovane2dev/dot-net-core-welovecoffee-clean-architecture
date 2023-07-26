@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WeLoveCoffee.Infra.IoC
-build_property.ProjectDir = D:\Development\learning\dot-net-core-promobeta-clean-architecture\WeLoveCoffee.Infra.IoC\
+build_property.ProjectDir = D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.IoC\

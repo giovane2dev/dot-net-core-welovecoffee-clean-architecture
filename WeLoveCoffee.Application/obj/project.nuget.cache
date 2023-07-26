@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6G9sJ0KL4RrP8Ul+zzGlrNR5sT8pg5ZEYs0hi+HTUz9y4w9ayajIu65KwFOs08cQj08hGm9seul2SHkX9mpDg==",
+  "dgSpecHash": "XnrwlX438j77kT6jyM36rllSHKW7iVnu1S7aUV1qIzCtEJhxv593/5bbH6HmpDjk33pS5u3o2WrHDsLar1ad7Q==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Application\\WeLoveCoffee.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

@@ -1,0 +1,17 @@
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Infra.Data.deps.json
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Infra.Data.runtimeconfig.json
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Infra.Data.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Infra.Data.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Domain.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\bin\Debug\net7.0\WeLoveCoffee.Domain.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.csproj.AssemblyReference.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.AssemblyInfoInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.AssemblyInfo.cs
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.csproj.CopyComplete
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\refint\WeLoveCoffee.Infra.Data.dll
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.pdb
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\WeLoveCoffee.Infra.Data.genruntimeconfig.cache
+D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.Infra.Data\obj\Debug\net7.0\ref\WeLoveCoffee.Infra.Data.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzwQL5NnVCZyMX4XvM7NlYEHCem2F6reTnDhEdKfjBf88/GPHgFcUGo4lLQqDd8lVJjZk0qITD/7/ACIcaOl+w==",
+  "dgSpecHash": "ZpKgfFX1tgvJ6fqHnzTlIrSPTwYF5yEndmldZ8lMIgqFBb6hcDaS6E46br1GHjpM6/9/lFJHATTzsy5BfBxFfQ==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.API\\WeLoveCoffee.API.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.API\\WeLoveCoffee.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

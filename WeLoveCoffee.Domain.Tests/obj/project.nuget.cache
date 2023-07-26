@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBu2K71335APHksRiieZ2O/sAoUUDPcOtJRKXcigwN3ct2VwgCsGB+7lVKRKribm1sfyZo4PjhyQkdYAg1+Wgw==",
+  "dgSpecHash": "GN2+e0C+tX05XAKBnIVmwtSo4SGWrMkv4GoTQ4ZviIWr4GyrOlE2ioiQztAmLWM4BTs5BtDuYuw5QhOzO7kExQ==",
   "success": true,
-  "projectFilePath": "D:\\Development\\learning\\dot-net-core-promobeta-clean-architecture\\WeLoveCoffee.Domain.Tests\\WeLoveCoffee.Domain.Tests.csproj",
+  "projectFilePath": "D:\\Development\\learning\\dot-net-core-welovecoffee-clean-architecture\\WeLoveCoffee.Domain.Tests\\WeLoveCoffee.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dev\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\2dev\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
