@@ -16,8 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Development\learning\dot-net-core-welovecoffee-clean-architecture\WeLoveCoffee.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Development/learning/dot-net-core-welovecoffee-clean-architecture/WeLoveCoffee.WebUI/Views/Categories/Categories.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzLmNzaHRtbA==
+[D:/Development/learning/dot-net-core-welovecoffee-clean-architecture/WeLoveCoffee.WebUI/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/learning/dot-net-core-welovecoffee-clean-architecture/WeLoveCoffee.WebUI/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Development/learning/dot-net-core-welovecoffee-clean-architecture/WeLoveCoffee.WebUI/Views/Shared/Error.cshtml]

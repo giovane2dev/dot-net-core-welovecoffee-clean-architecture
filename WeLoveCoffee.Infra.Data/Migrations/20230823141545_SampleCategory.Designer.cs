@@ -11,8 +11,8 @@ using WeLoveCoffee.Infra.Data.Context;
 namespace WeLoveCoffee.Infra.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230717185450_SampleCompany")]
-    partial class SampleCompany
+    [Migration("20230823141545_SampleCategory")]
+    partial class SampleCategory
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -71,8 +71,8 @@ namespace WeLoveCoffee.Infra.Data.Migrations
 
                     b.Property<string>("TaxIdNumber")
                         .IsRequired()
-                        .HasMaxLength(25)
-                        .HasColumnType("nvarchar(25)");
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)");
 
                     b.HasKey("Id");
 

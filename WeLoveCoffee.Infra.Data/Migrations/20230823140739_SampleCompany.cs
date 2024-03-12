@@ -10,16 +10,14 @@ namespace WeLoveCoffee.Infra.Data.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            /*
-            migrationBuilder.Sql("INSERT INTO Companies (TaxIdNumber,Name,Description,Active)" +
-                "VALUES ('50946701000196','DEXS','DEXS SOLUTIONS TECNOLOGIA E INTERNET',1)");
-            */
+            migrationBuilder.Sql("INSERT INTO Companies (TaxIdNumber,Name,Description,Active) " +
+                                 "VALUES ('1234567890','DEXS','DEXS SOLUTIONS',1)");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            // migrationBuilder.Sql("DELETE FROM Companies");
+            migrationBuilder.Sql("DELETE FROM Companies");
         }
     }
 }
